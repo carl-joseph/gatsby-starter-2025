@@ -7,7 +7,7 @@ module.exports = {
     title: `Starter Theme`,
     description: `Starter Theme 2024`,
     author: `@carljoseph`,
-    siteUrl: `https://carlbeaverson.com`,
+    siteUrl: `https://c-b.works`,
   },
   plugins: [
     {

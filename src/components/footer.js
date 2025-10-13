@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className='p20'>
       © {new Date().getFullYear()} &middot; Built by
       {` `}
-      <a href='https://www.groundcrew.com.au'>Groundcrew</a>
+      <a href='https://c-b.works'>CB Works</a>
     </footer>
   )
 }
